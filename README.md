@@ -52,4 +52,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-jdrpires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdrpires/)](https://www.linkedin.com/in/jdrpires/)
 [![Gmail Badge](https://img.shields.io/badge/-jdrpirers@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jdrpires@gmail.com)](mailto:jdrpires@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/jdrpires?label=follow&style=social)](https://www.linkedin.com/in/jdrpires/)
+[![GitHub](https://img.shields.io/github/followers/jdrpires?label=follow&style=social)](https://github.com/jdrpires)
