@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando MBA em Gestão de Projetos na Uni9.
-- 💼 Trabalhando como Tech Lead / Gestor de Projetos na Code Synergy.
+- 💼 Trabalhando como Tech Lead / Gestor de Projetos.
 - 🌱 Aprendendo mais sobre Java Script, NestJS, React, DevOps, Cloud.
 
 ## Minhas Skills
