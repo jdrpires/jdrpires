@@ -3,14 +3,17 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando MBA em Gestão de Projetos na Uni9.
+- 🎓 MBA em Gestão de Projetos pela Uni9.
 - 💼 Trabalhando como Tech Lead / Gestor de Projetos.
+- 🐍 Especista em programação Python
 - 🌱 Aprendendo mais sobre Java Script, NestJS, React, DevOps, Cloud.
+- 🧠 Entusiasta de Inteligência Artificial
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
+![Python](https://img.shields.io/pypi/pyversions/fastAPI)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=javascript)
