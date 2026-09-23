@@ -1,58 +1,117 @@
-![](https://komarev.com/ghpvc/?username=jdrpires&color=006bed)
+<div align="center">
 
-## Sobre mim
+# Jean Pires
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 MBA em Gestão de Projetos pela Uni9.
-- 💼 Trabalhando como Tech Lead / Gestor de Projetos.
-- 🐍 Especista em programação Python
-- 🌱 Aprendendo mais sobre Java Script, NestJS, React, DevOps, Cloud.
-- 🧠 Entusiasta de Inteligência Artificial
+### Founder & CEO @ Code Synergy · CTO @ PlugZ · AI Hub Leader @ Onovolab
 
-## Minhas Skills
+**Software Architecture · Applied AI · Fintech · Enterprise Platforms · Automotive**
 
-**Aplicações e dados**
+[![Website](https://img.shields.io/badge/jeanpires.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jeanpires.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jdrpires-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdrpires/)
+[![GitHub](https://img.shields.io/badge/GitHub-jdrpires-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jdrpires)
 
-![Python](https://img.shields.io/pypi/pyversions/fastAPI)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+</div>
 
-**Utilidades**
+## About me
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+Technology executive, software architect and builder with around **25 years of experience in technology**, working at the intersection of **business strategy, software engineering and applied artificial intelligence**.
 
-**DevOps**
+I am the **Founder & CEO of Code Synergy**, **CTO at PlugZ**, and lead the **AI Hub at Onovolab**. My work spans the design and delivery of digital products, enterprise platforms, fintech and payment integrations, AI-enabled systems, cloud architectures, and connected mobility.
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+I enjoy turning complex business problems into secure, scalable and maintainable software — while staying close to architecture and code.
 
+## What I'm building
 
-**Ferramentas de desenvolvimento**
+### Horizon
+Connected vehicle and automotive intelligence platform combining **Android / Android Auto, OBD-II telemetry, edge processing and a FastAPI gateway**. The project explores vehicle health, preventive insights and connected mobility.
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Intellij](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+### PlugZ Platform
+Technology platforms for the franchise ecosystem, including commercial operations, customer journeys, financial services, payments, BaaS integrations, governance and multi-tenant architectures.
 
+### integraZ
+Integration layer for external services and enterprise partners, designed around robust APIs, asynchronous processing, observability and secure integration patterns.
 
-<br/>
+### Governance Hub
+Multi-tenant governance platform focused on **identity, RBAC, auditing, security and enterprise controls**.
 
-<a href="https://github.com/jdrpires" title="Perfil do Jean">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdrpires&theme=dracula&show_icons=true" />
-</a>
+### Code Synergy
+At Code Synergy, I lead the architecture and development of custom software, automation and AI solutions that connect technology directly to business outcomes.
 
-## Onde me encontrar
+## Areas of focus
 
-[![Linkedin](https://img.shields.io/badge/-jdrpires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdrpires/)](https://www.linkedin.com/in/jdrpires/)
-[![Gmail Badge](https://img.shields.io/badge/-jdrpirers@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jdrpires@gmail.com)](mailto:jdrpires@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/jdrpires?label=follow&style=social)](https://github.com/jdrpires)
+- **Applied AI & AI Agents** — LLM-powered workflows, automation and intelligent products
+- **Software Architecture** — APIs, distributed systems, multi-tenant platforms and domain-driven design
+- **Fintech & Payments** — BaaS, Pix, billing, payment processing and financial integrations
+- **Enterprise Integration** — REST, SOAP, event-driven integrations and partner ecosystems
+- **Automotive & Edge** — OBD-II, Android Auto, telemetry and edge computing
+- **Cloud & DevOps** — AWS, containers, CI/CD, observability and infrastructure
+- **Security by Design** — authentication, authorization, RBAC, auditing and secure engineering
+
+## Core stack
+
+### Backend & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+### Cloud, Platform & Engineering
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### AI & Architecture
+
+`LLMs` · `AI Agents` · `RAG` · `API Design` · `DDD` · `RBAC` · `Multi-tenancy` · `Event-driven Systems` · `Secure-by-design`
+
+## Engineering principles
+
+```text
+Build for real users.
+Design for failure.
+Automate what should not be manual.
+Measure what matters.
+Keep security part of the architecture.
+Use AI where it creates measurable value.
+```
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jdrpires&show_icons=true&hide_border=true&theme=transparent" alt="Jean Pires GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdrpires&layout=compact&hide_border=true&theme=transparent" alt="Jean Pires most used languages" />
+
+</div>
+
+## Let's connect
+
+I am interested in conversations around **software architecture, applied AI, digital products, fintech, enterprise platforms and connected mobility**.
+
+- Website: [jeanpires.com.br](https://jeanpires.com.br)
+- LinkedIn: [linkedin.com/in/jdrpires](https://www.linkedin.com/in/jdrpires/)
+- GitHub: [github.com/jdrpires](https://github.com/jdrpires)
+- Email: [jdrpires@gmail.com](mailto:jdrpires@gmail.com)
+
+---
+
+<div align="center">
+
+**Building technology that turns complex problems into useful products.**
+
+![](https://komarev.com/ghpvc/?username=jdrpires&color=006bed&style=flat-square)
+
+</div>
