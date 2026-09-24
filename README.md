@@ -29,32 +29,32 @@ A selection of products and platforms that represent the range of problems I cur
 
 A connected-asset intelligence platform built around identity, memory, observations and explainable state. Horizon explores how physical assets can maintain a continuous digital history and evolve toward Living Digital Twins, with Android clients, edge collection and a domain-driven backend.
 
-### 02 · PlugZ
+### 02 · [PlugZ](portfolio/plugz.md)
 **Franchise Technology · Fintech · BaaS · Payments · Multi-tenant Platforms**
 
 A technology ecosystem for franchise operations. My work as CTO spans platform architecture, commercial journeys, partner integrations, financial services, Pix and payment infrastructure, governance, security and scalable multi-tenant systems.
 
-### 03 · No Divã Treinamentos
+### 03 · [No Divã Treinamentos](portfolio/no-diva.md)
 **Digital Platform · Workflow Automation · Security · Backoffice**
 
 A production platform supporting complex registration and evaluation workflows, administrative operations, document handling and auditable decision processes, with a strong focus on security, data integrity and operational reliability.
 
-### 04 · integraZ
+### 04 · [integraZ](portfolio/integraz.md)
 **Enterprise Integration · APIs · SOAP · REST · Async Processing**
 
 An integration layer for PlugZ and its partner ecosystem. It standardizes external integrations behind resilient contracts, observability and secure workflows, including insurance, financial and payment services.
 
-### 05 · Governance Hub
+### 05 · [Governance Hub](portfolio/governance-hub.md)
 **SaaS · IAM · RBAC · Audit · Multi-tenancy**
 
 A multi-company governance platform designed around tenant isolation, identity, role-based access control, auditability and enterprise controls for documents, obligations, responsibilities and operational governance.
 
-### 06 · DNAMark
+### 06 · [DNAMark](portfolio/dnamark.md)
 **Biotech · Laboratory Operations · Data Workflows · Web Platform**
 
 A digital platform for genetics laboratory workflows, designed to support structured sample operations and business processes. It represents the application of software engineering to a specialized scientific and operational domain.
 
-> Some of these products are developed in private repositories because they contain proprietary or client-specific code. Their inclusion here describes the engineering work and product domains without exposing protected source code.
+> Some of these products are developed in private repositories because they contain proprietary or client-specific code. Their inclusion here describes the engineering work and product domains without exposing protected source code.\n>\n> **[Explore the public case-study index →](portfolio/README.md)**
 
 ## Areas of focus
 
