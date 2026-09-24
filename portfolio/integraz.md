@@ -2,39 +2,65 @@
 
 **Enterprise Integration · APIs · SOAP · REST · Async Processing**
 
+| | |
+|---|---|
+| **Role** | Architecture · Integration design · Engineering governance |
+| **Domain** | Enterprise partners, financial services, insurance and payments |
+| **Architecture** | Anti-corruption/integration layer around external systems |
+| **Core themes** | Contracts, idempotency, state machines, resilience, observability |
+| **Lifecycle** | Active |
+| **Repository** | Private / proprietary |
+
 ## Context
 
 integraZ is an integration layer created to isolate partner-specific complexity from the core PlugZ platform.
 
-## Problem space
+## Challenge
 
-External ecosystems rarely expose uniform contracts. Financial institutions, insurers, payment providers and other enterprise partners may differ in authentication, transport, payload formats, error semantics and operational guarantees.
+External ecosystems rarely expose uniform contracts. Banks, insurers, payment providers and other enterprise partners differ in authentication, transport, payload formats, error semantics and operational guarantees.
 
-Allowing those differences to leak directly into the core product creates coupling and operational risk.
+Allowing those differences to leak into the core product creates coupling and increases operational risk.
 
-## Engineering approach
+## Architecture
 
-integraZ creates explicit boundaries around external integrations with emphasis on:
+```text
+          PlugZ Core
+              │
+              ▼
+         integraZ Layer
+   ┌──────────┼──────────┐
+   │          │          │
+ Adapter A  Adapter B  Adapter C
+   │          │          │
+ REST       SOAP       OAuth/API
+   │          │          │
+   └──── External Partners ────┘
+```
 
-- partner-specific adapters and contracts;
-- REST and SOAP integrations;
-- authentication and credential isolation;
-- normalization of external responses;
-- idempotency and state-machine driven workflows;
-- explicit timeout and retry policies;
-- asynchronous processing where appropriate;
-- persistence of operational state;
-- observability and failure diagnosis;
-- automated integration and contract testing.
+## Engineering decisions
 
-## Technology themes
+- Partner-specific adapters behind explicit contracts.
+- REST and SOAP integration patterns supported without contaminating the core domain.
+- Authentication and credential isolation.
+- Normalization of external responses and failures.
+- Idempotency and state-machine-driven transactional workflows.
+- Explicit timeout and retry policies.
+- Async processing where the business flow benefits from it.
+- Persistence of operational state for diagnosis and recovery.
+- Automated integration and contract tests.
+
+## Stack
 
 `Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `REST` · `SOAP` · `OAuth2` · `Docker` · `CI/CD`
 
-## Engineering value
+## My contribution
 
-The architectural objective is to keep external volatility outside the core domain. New partners can evolve behind controlled integration boundaries without forcing their implementation details into the rest of the platform.
+I work on integration architecture, boundary definition, failure semantics, state modeling and engineering standards so new partners can be introduced without turning the core platform into a collection of vendor-specific assumptions.
 
-## Portfolio note
+## Engineering outcome
 
-Partner implementations and credentials are proprietary. This public case study documents architectural patterns rather than endpoints, secrets or private contracts.
+The architectural value is **controlled external volatility**: partner APIs can change or fail without forcing their implementation details throughout the product.
+
+> **Confidentiality:** endpoints, credentials, partner contracts and proprietary adapters are intentionally not published.
+
+[← Portfolio index](README.md)

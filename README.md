@@ -54,7 +54,9 @@ A multi-company governance platform designed around tenant isolation, identity, 
 
 A digital platform for genetics laboratory workflows, designed to support structured sample operations and business processes. It represents the application of software engineering to a specialized scientific and operational domain.
 
-> Some of these products are developed in private repositories because they contain proprietary or client-specific code. Their inclusion here describes the engineering work and product domains without exposing protected source code.\n>\n> **[Explore the public case-study index →](portfolio/README.md)**
+> Some of these products are developed in private repositories because they contain proprietary or client-specific code. Their inclusion here describes the engineering work and product domains without exposing protected source code.
+>
+> **[Explore the public case-study index →](portfolio/README.md)**
 
 ## Areas of focus
 
