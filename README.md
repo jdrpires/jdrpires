@@ -20,22 +20,41 @@ I am the **Founder & CEO of Code Synergy**, **CTO at PlugZ**, and lead the **AI 
 
 I enjoy turning complex business problems into secure, scalable and maintainable software — while staying close to architecture and code.
 
-## What I'm building
+## Selected projects
 
-### Horizon
-Connected vehicle and automotive intelligence platform combining **Android / Android Auto, OBD-II telemetry, edge processing and a FastAPI gateway**. The project explores vehicle health, preventive insights and connected mobility.
+A selection of products and platforms that represent the range of problems I currently work on — from connected mobility and fintech to enterprise integration, governance and digital operations.
 
-### PlugZ Platform
-Technology platforms for the franchise ecosystem, including commercial operations, customer journeys, financial services, payments, BaaS integrations, governance and multi-tenant architectures.
+### 01 · Horizon
+**Connected Assets · Living Digital Twins · Android · Edge · Python**
 
-### integraZ
-Integration layer for external services and enterprise partners, designed around robust APIs, asynchronous processing, observability and secure integration patterns.
+A connected-asset intelligence platform built around identity, memory, observations and explainable state. Horizon explores how physical assets can maintain a continuous digital history and evolve toward Living Digital Twins, with Android clients, edge collection and a domain-driven backend.
 
-### Governance Hub
-Multi-tenant governance platform focused on **identity, RBAC, auditing, security and enterprise controls**.
+### 02 · PlugZ
+**Franchise Technology · Fintech · BaaS · Payments · Multi-tenant Platforms**
 
-### Code Synergy
-At Code Synergy, I lead the architecture and development of custom software, automation and AI solutions that connect technology directly to business outcomes.
+A technology ecosystem for franchise operations. My work as CTO spans platform architecture, commercial journeys, partner integrations, financial services, Pix and payment infrastructure, governance, security and scalable multi-tenant systems.
+
+### 03 · No Divã Treinamentos
+**Digital Platform · Workflow Automation · Security · Backoffice**
+
+A production platform supporting complex registration and evaluation workflows, administrative operations, document handling and auditable decision processes, with a strong focus on security, data integrity and operational reliability.
+
+### 04 · integraZ
+**Enterprise Integration · APIs · SOAP · REST · Async Processing**
+
+An integration layer for PlugZ and its partner ecosystem. It standardizes external integrations behind resilient contracts, observability and secure workflows, including insurance, financial and payment services.
+
+### 05 · Governance Hub
+**SaaS · IAM · RBAC · Audit · Multi-tenancy**
+
+A multi-company governance platform designed around tenant isolation, identity, role-based access control, auditability and enterprise controls for documents, obligations, responsibilities and operational governance.
+
+### 06 · DNAMark
+**Biotech · Laboratory Operations · Data Workflows · Web Platform**
+
+A digital platform for genetics laboratory workflows, designed to support structured sample operations and business processes. It represents the application of software engineering to a specialized scientific and operational domain.
+
+> Some of these products are developed in private repositories because they contain proprietary or client-specific code. Their inclusion here describes the engineering work and product domains without exposing protected source code.
 
 ## Areas of focus
 
